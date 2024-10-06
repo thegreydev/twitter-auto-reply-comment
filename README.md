@@ -41,4 +41,4 @@ developer: https://t.me/pysmart
 - Log in to your Twitter account via the API.
 - Automatically search for tweets containing specific keywords.
 - Reply to those tweets with a message of your choice.
-- Let me know if you'd like more details or need any adjustments!  
+- Let me know if you'd like more details or need any adjustments !  
