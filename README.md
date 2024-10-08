@@ -42,3 +42,5 @@ developer: https://t.me/pysmart
 - Automatically search for tweets containing specific keywords.
 - Reply to those tweets with a message of your choice.
 - Let me know if you'd like more details or need any adjustments !  
+
+automated tool for sending bulk messages to twitter users
